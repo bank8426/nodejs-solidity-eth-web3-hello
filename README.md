@@ -19,7 +19,7 @@ This code run on Rinkeby TestNet. Connect by https://rinkeby.infura.io/
 ![alt text](https://s9.postimg.org/g9t89d2v3/Image_7.png)
 ![alt text](https://s9.postimg.org/4kp8lez1r/Image_8.png)
 ![alt text](https://s9.postimg.org/tqq6s9frj/Image_9.png)
-![alt text](https://s9.postimg.org/sbom3ju3z/Image_10.png)
+
 ![alt text](https://s9.postimg.org/ayebop6in/Image_11.png)
 ![alt text](https://s9.postimg.org/96lctrsan/Image_12.png)
 ![alt text](https://s9.postimg.org/bb5puv9cv/Image_13.png)
