@@ -30,3 +30,5 @@ This code run on Rinkeby TestNet. Connect by https://rinkeby.infura.io/
 ![alt text](https://s9.postimg.org/p4u2jy4j3/Image_18.png)
 ![alt text](https://s9.postimg.org/ll84u59j3/Image_19.png)
 ![alt text](https://s9.postimg.org/pucuwbzxr/Image_20.png)
+
+https://github.com/bitpay/bitcore/issues/1454
